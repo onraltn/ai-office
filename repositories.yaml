@@ -1,0 +1,10 @@
+# Only listed projects are accessible. Use a numeric project ID or group/project.
+repositories: []
+# repositories:
+#   - id: payments-api
+#     project: platform/payments-api
+#     ref: main
+#     description: Payment processing and refund API
+#     tags: [payments, billing, refunds]
+#     depends_on: [identity-api]
+#     exclude: ["migrations/**"]
